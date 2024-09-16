@@ -2,10 +2,10 @@
 */
 .mdl-ripple {
   background: #ff0000;
-  opacity: 0.001;
+  opacity: 1;
 }
 body {
-  background-color: powderblue;
+  background-color: rgb(255, 0, 0);
 }
 
 h1 {
